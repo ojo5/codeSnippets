@@ -1,0 +1,6 @@
+*.exe
+*.hi
+*.o
+haskell/fizzbuzz.exe
+haskell/fizzbuzz.hi
+haskell/fizzbuzz.o
